@@ -1,0 +1,75 @@
+.header{
+    background-image: url(Image/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    border-bottom: 10px solid rgb(216, 224, 233);
+}
+.header .logoTitle{
+    height: 80px;
+}
+.header .Logo{
+    float: left;
+    width: 20%;
+
+}
+.header .Logo img{
+    width: 90px;
+    
+}
+.header .title{
+    height: 100px;
+    float: right;
+    width: 80%;   
+}
+.header .title h1{
+    color: rgb(95, 30, 170);
+    text-align: center;
+        
+}
+.header .menuBar{
+
+}
+.header .menuBar ul{
+    list-style: none;
+    
+}
+.header .menuBar ul li{
+    display: inline;
+    text-align: center;
+    border-bottom: 3px solid rgb(120, 207, 214);
+    /* margin-right: 20px auto; */
+    /* padding: 20px auto;     */
+}
+.header .menuBar ul li:hover{
+    color: blue;
+}
+.mainBody{
+    
+}
+.body{
+    height: 300px;   
+
+}
+.body .bodyContent{
+    float: left;
+    width: 60%;
+    height: 300px;
+    padding: 10px;
+
+
+}
+.body .bodyContent p{
+    
+}
+.body .bodyImage{
+    float:right;
+    width: 40%;
+
+}
+.body .bodyImage img{
+    height: 300px;
+    width: 300px;
+
+    
+}
